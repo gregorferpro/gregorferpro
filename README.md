@@ -125,16 +125,20 @@ Proyecto de práctica para fortalecer conocimientos en **Flutter y desarrollo de
 
 <div align="center">
 
+<a href="https://github.com/gregorferpro/SIGTA">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregorferpro&repo=SIGTA&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="SIGTA" />
+</a>
 <a href="https://github.com/gregorferpro/Sistema-de-Gestion-de-granja-de-gallinas-ponedoras">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregorferpro&repo=Sistema-de-Gestion-de-granja-de-gallinas-ponedoras&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Sistema de Gestión de Granja" />
 </a>
+
 <a href="https://github.com/gregorferpro/Tienda2">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregorferpro&repo=Tienda2&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Tienda2" />
 </a>
-
 <a href="https://github.com/gregorferpro/multi-tienda">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregorferpro&repo=multi-tienda&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Multi Tienda" />
 </a>
+
 <a href="https://github.com/gregorferpro/flutter_application_1">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregorferpro&repo=flutter_application_1&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Flutter App" />
 </a>
