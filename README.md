@@ -125,6 +125,9 @@ Proyecto de práctica para fortalecer conocimientos en **Flutter y desarrollo de
 
 <div align="center">
 
+<a href="https://github.com/gregorferpro/Aplicacion-Movil-para-Monitoreo-de-granja-de-cerdos">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregorferpro&repo=Aplicacion-Movil-para-Monitoreo-de-granja-de-cerdos&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Aplicación móvil para monitoreo de granja de cerdos" />
+</a>
 <a href="https://github.com/gregorferpro/SIGTA">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregorferpro&repo=SIGTA&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="SIGTA" />
 </a>
