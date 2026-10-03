@@ -139,6 +139,9 @@ Proyecto de práctica para fortalecer conocimientos en **Flutter y desarrollo de
   <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregorferpro&repo=multi-tienda&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Multi Tienda" />
 </a>
 
+<a href="https://github.com/gregorferpro/Velocimetro-de-caballos-por-video">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregorferpro&repo=Velocimetro-de-caballos-por-video&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Velocímetro de caballos por video" />
+</a>
 <a href="https://github.com/gregorferpro/flutter_application_1">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregorferpro&repo=flutter_application_1&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Flutter App" />
 </a>
